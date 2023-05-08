@@ -39,29 +39,41 @@ Scaffold-based data split     | Vahid Atabaigielmi
 Protein Folding	              |	Mhd Jawad Al Rahwanji
 Drug combination prediction with SVM	| Vanessa Siegel
 
+## Before you start
 
-## How to setup your notebook
-
-1. Install [Miniconda for Python 3.7](https://docs.conda.io/en/latest/miniconda.html) in your OS.
-2. Create a `conda` environment needed for your project, using `conda create -n <my_env>`.
-3. Activate the environment with `conda activate <my_env>`.
-4. Install jupyter notebook using `conda install jupyter notebook`. You will be able to install more when needed, but this is the basic one to start working on your notebook.
-5. Run `jupyter notebook` and open the template notebook through the web-app.
-6. You can find a conda cheat sheet [here](https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf).
+Make sure you have conda installed in your OS, see [Miniconda for Python 3.10](https://docs.conda.io/en/latest/miniconda.html)
 
 ## How to start working
 
-1. Clone the _volkamerlab/CADDSeminar_2021_ repository, using `git clone https://github.com/volkamerlab/CADDSeminar_2021`.
-2. Create a new branch called `T[mynb]-[your_initials]` (e.g. T01-AV_DS) using `git checkout -b T[mynb]-[your_initials]`.
-3. Copy and paste the folder `0[nr]_topicname/` in `notebooks/` and rename it with your own topic number and topic name. This can be done using `cp -r notebooks/0[nr]_topicname notebooks/[mynb]_[mytopicname]` .
-4. Rename the `talktorial_template.ipynb` notebook in your topic folder as `T[mynb]_[mytopicname].ipynb`. This can be done using `mv talktorial_template.ipynb T[mynb]_[mytopicname].ipynb`.
-5. Activate the `conda` environment that you created in the previous section, using with `conda activate <my_env>`.
-6. Run `jupyter notebook` and open your notebook `T[mynb]_[mytopicname].ipynb`.
-7. Fill the template with the theory and start working.
+  Clone repo
+  
+  1. Clone the _volkamerlab/CADDSeminar_2023_ repository, using `git clone git@github.com:volkamerlab/CADDSeminar_2023.git`
+  2. Change into seminar folder: cd CADDSeminar_2023
+  
+  Create enviornment
+  
+  3. Create enviornment: `conda env create --file environment.yaml`
+  4. Activate the environment with `conda activate <my_env>`
+  5. You can find a conda cheat sheet [here](https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf).
+  
+  Create your own branch
+  
+  6. Create a new branch called `T[mynb]-[your_initials]-[topic]` (e.g. T01-AV_proteinfolding) using `git checkout -b T[mynb]-[your_initials]-[topic]`
+  7. Copy and paste the folder `0[nr]_topicname/` in `notebooks/` and rename it with your own topic number and topic name. This can be done using `cp -r notebooks/0[nr]_topicname notebooks/[mynb]_[mytopicname]` .
+  8. Rename the `talktorial_template.ipynb` notebook in your topic folder as `T[mynb]_[mytopicname].ipynb`. This can be done using `mv talktorial_template.ipynb T[mynb]_[mytopicname].ipynb`.
+  
+  Start your work 
+  
+  9. Run `jupyter notebook` and open your notebook `T[mynb]_[mytopicname].ipynb` through the web-app
+  10. Fill the template with the theory and start working.
 
 ## Version control
-1. Save, stage and upload your changes using `git add <my_file>`, `git commit -m 'message associated to commit.' ` and `git push origin T[mynb]-[your_initals]`. __Be aware of the new files you add!__
-2. You will now be able to create your pull request on GitHub on the `volkamerlab/CADDSeminar_2023` repo. Rename the title of your PR as `T[mynb]-[your_initials]`.
+  1. Save, stage and upload your changes using 
+      * `git add <my_file>`, 
+      * `git commit -m 'message associated to commit.' ` 
+      * and `git push origin T[mynb]-[your_initals]`. 
+      * __Be aware of the new files you add!__
+  2. You will now be able to create your pull request on GitHub on the `volkamerlab/CADDSeminar_2023` repo. Rename the title of your PR as `T[mynb]-[your_initials]`.
 
 ## Useful links & Cheatsheets
 * [Conda cheatsheet](https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf)
