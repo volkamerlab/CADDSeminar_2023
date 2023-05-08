@@ -47,8 +47,10 @@ Make sure you have conda installed in your OS, see [Miniconda for Python 3.10](h
 
   Clone repo
   
-  1. Clone the _volkamerlab/CADDSeminar_2023_ repository, using `git clone git@github.com:volkamerlab/CADDSeminar_2023.git`
-  2. Change into seminar folder: cd CADDSeminar_2023
+  1. Clone the _volkamerlab/CADDSeminar_2023_ repository
+      * using `git clone git@github.com:volkamerlab/CADDSeminar_2023.git`
+      * or... git pull on master (to get all updates!
+  2. Change into seminar folder: `cd CADDSeminar_2023`
   
   Create enviornment
   
