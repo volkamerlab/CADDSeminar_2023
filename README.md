@@ -12,7 +12,7 @@ Link to [CS seminar](https://seminars.cs.uni-saarland.de/sose23seminars) descrip
 ## General guidelines for each assignment
 
   1. Initial session: Research your topic and write the theory part of your notebook. You will be provided with some references but you are also expected to do some complementary reading if needed. On May 9th you will have to present it to the class (briefly).
-  2. Work sessions (3 lessons): write your talktorial notebook. The final result should be comparable with [the notebooks from TeachOpenCADD](https://github.com/volkamerlab/teachopencadd). Please push your progress to this repo at __Monday 1__ pm the latest, so we have time to check your talktorials until Friday morning.
+  2. Work sessions (3 lessons): write your talktorial notebook. The final result should be comparable with [the notebooks from TeachOpenCADD](https://github.com/volkamerlab/teachopencadd). Please push your progress to this repo at **Monday 1 pm** the latest, so we have time to check your talktorials until **Tuesday** mornings.
   3. Presentation sessions (2 lessons): Present your notebook to the class.
 
 ## Course dates
