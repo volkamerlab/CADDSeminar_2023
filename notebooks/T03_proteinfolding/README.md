@@ -40,6 +40,7 @@ In this notebook, we will learn about protein folding and how to predict protein
 **Goal: Predict the 3D structure of a protein from a given sequence of amino acids**
 
 * Overview
+* Setup
 * Processing the input sequence
 * Visualizing the output prediction
 
