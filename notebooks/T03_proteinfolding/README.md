@@ -4,6 +4,7 @@
 
 Authors:
 - Mhd Jawad Al Rahwanji, DDDD seminar 2023, Volkamer lab, Saarland University
+- Paula Linh Kramer, 2023, Volkamer lab, Saarland University
 
 
 ## Aim of this talktorial
