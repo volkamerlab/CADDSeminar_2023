@@ -11,7 +11,7 @@ Authors:
 
 In this notebook, we will learn about protein folding and how to predict protein structures using machine learning. This helps us understand diseases and accelerates drug development.
 
-~~Our work here will include comparing the predicted structures to their corresponding crystalline forms.~~
+Our work here will include comparing the predicted structures to their corresponding crystalline forms.
 
 
 ### Contents in *Theory*
