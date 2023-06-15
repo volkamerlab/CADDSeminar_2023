@@ -24,9 +24,9 @@ Our work here will include comparing the predicted structures to their correspon
     * Breakthroughs
 * OmegaFold
     * Innerworkings and Training
-    * Performance on benchmarks
-    * Orphan protein and antibody predictions
-    * OmegaFold model interpretation
+    * Performance evaluation
+    * More on orphan proteins and antibodies
+    * Investigating the Geoformer
     * Computational performance
 * Alternative Methods
     * Quantum Approach
