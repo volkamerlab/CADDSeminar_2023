@@ -22,15 +22,12 @@ Our work here will include comparing the predicted structures to their correspon
 * History
     * CASP
     * Breakthroughs
-* Methods
-    * Overview
-    * OmegaFold
-        * OmegaFold model
-        * OmegaPLM language model
-        * Performance on benchmarks
-        * Orphan protein and antibody predictions
-        * OmegaFold model interpretation
-        * Computational performance
+* OmegaFold
+    * Innerworkings and Training
+    * Performance on benchmarks
+    * Orphan protein and antibody predictions
+    * OmegaFold model interpretation
+    * Computational performance
 * Alternative Methods
     * Quantum Approach
     * Diffusion-based Models
