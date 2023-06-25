@@ -1,4 +1,4 @@
-# Talktorial title
+# T02-Diffusion-based molecular docking
 
 ## Images
 
