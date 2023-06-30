@@ -40,7 +40,13 @@ Our work here will include comparing the predicted structures to their correspon
 * Overview
 * Setup
 * Processing the input sequence
-* Visualizing the output prediction
+* Analyzing the output predictions
+  * 6YJ1
+  * 7FVU
+* Analyzing the secondary structures
+  * 6YJ1
+  * 7FVU
+* Summary
 
 
 ### References
