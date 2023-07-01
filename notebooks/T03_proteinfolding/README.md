@@ -39,13 +39,14 @@ Our work here will include comparing the predicted structures to their correspon
 
 * Overview
 * Setup
-* Processing the input sequence
+* Processing the input sequences
 * Analyzing the output predictions
   * 6YJ1
   * 7FVU
 * Analyzing the secondary structures
-  * 6YJ1
-  * 7FVU
+  * RMSD
+  * Prediction confidences
+  * Ramachandran plots
 * Summary
 
 
