@@ -1,6 +1,13 @@
 # Information about the input files
 
+For each of the following proteins we have a `PDB` and a `FASTA` file stored in the `data` folder. 
+Both of which have been downloaded from the respective source page linked below each of the proteins.
+The `FASTA` file is needed as input to the algorithm we will be using.
+The `PDB` file resembles the ground truth crystalline structure for the protein. 
+It is used to assess the quality of the predicted conformation.
+
 ## 6YJ1
+
 ### The M23 peptidase domain of the Staphylococcal phage 2638A endolysin
 
 - PDB DOI: https://doi.org/10.2210/pdb6YJ1/pdb

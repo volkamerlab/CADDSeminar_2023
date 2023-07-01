@@ -1,10 +1,11 @@
-# Protein Folding
+# T03 · Protein Folding
 
 **Note:** This talktorial is a part of TeachOpenCADD, a platform that aims to teach domain-specific skills and to provide pipeline templates as starting points for research projects.
 
 Authors:
-- Mhd Jawad Al Rahwanji, DDDD seminar 2023, Volkamer lab, Saarland University
+- Mhd Jawad Al Rahwanji, CADD seminar 2023, Volkamer lab, Saarland University
 - Paula Linh Kramer, 2023, Volkamer lab, Saarland University
+- Andrea Volkamer, 2023, Volkamer lab, Saarland University
 
 
 ## Aim of this talktorial
