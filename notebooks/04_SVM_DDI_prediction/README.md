@@ -50,7 +50,9 @@ To build the combined similarity matrix, we will look at 2D and 3D structural si
 * Similarity-based SVM predictor for DDI: [*J. Clin. Pharm. Ther.* (2018), __44(2)__, 268-275](https://pubmed.ncbi.nlm.nih.gov/30565313/)
 * Explanation of E3FP: [*J. Med. Chem.* (2017), __60__, 7393-7409](https://pubs.acs.org/doi/full/10.1021/acs.jmedchem.7b00696)
 * DrugBank: [*Nucleic Acids Res.* (2017), __8__](https://pubmed.ncbi.nlm.nih.gov/29126136/)
+* [__Introduction__](https://www.andreaperlato.com/theorypost/introduction-to-support-vector-machine/) to SVMs
+* Further information on [__Drug-Drug Interactions__](https://www.drugs.com/drug_interactions.html)
 * Fingerprints and Drug Similarity: [__Talktorial 004__](https://github.com/volkamerlab/teachopencadd/blob/master/teachopencadd/talktorials/T004_compound_similarity/talktorial.ipynb)
 * RDKit package [__documentation__](https://www.rdkit.org/docs/index.html)
 * E3FP package [__documentation__](https://e3fp.readthedocs.io/en/latest/index.html)
-* Scikit-Learn package [__Documentation__](https://scikit-learn.org/stable/index.html)
+* Scikit-Learn package [__documentation__](https://scikit-learn.org/stable/index.html)
