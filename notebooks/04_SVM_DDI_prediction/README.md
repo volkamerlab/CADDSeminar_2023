@@ -1,4 +1,3 @@
-Give a very brief description of your topic.
 # T04 · Predicting Drug-Drug Interactions using SVM
 
 Authors:
