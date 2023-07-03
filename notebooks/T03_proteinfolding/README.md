@@ -1,7 +1,5 @@
 # T03 · Protein Folding
 
-**Note:** This talktorial is a part of TeachOpenCADD, a platform that aims to teach domain-specific skills and to provide pipeline templates as starting points for research projects.
-
 Authors:
 - Mhd Jawad Al Rahwanji, CADD seminar 2023, Volkamer lab, Saarland University
 - Paula Linh Kramer, 2023, Volkamer lab, Saarland University
@@ -10,9 +8,7 @@ Authors:
 
 ## Aim of this talktorial
 
-In this notebook, we will learn about protein folding and how to predict protein structures using machine learning. This helps us understand diseases and accelerates drug development.
-
-Our work here will include comparing the predicted structures to their corresponding crystalline forms.
+In this notebook, we will learn about protein folding and how to predict protein structures using machine learning. This task is crucial for understanding diseases and accelerating drug development.
 
 
 ### Contents in *Theory*
@@ -24,11 +20,11 @@ Our work here will include comparing the predicted structures to their correspon
     * CASP
     * Breakthroughs
 * OmegaFold
-    * Innerworkings and Training
-    * Performance evaluation
-    * More on orphan proteins and antibodies
+    * Inner Workings and Training
+    * Performance Evaluation
+    * More on Orphan Proteins and Antibodies
     * Investigating the Geoformer
-    * Computational performance
+    * Computational Performance
 * Alternative Methods
     * Quantum Approach
     * Diffusion-based Models
@@ -36,18 +32,18 @@ Our work here will include comparing the predicted structures to their correspon
 
 ### Contents in *Practical*
 
-**Goal: Predict the 3D structure of a protein from a given sequence of amino acids**
+**Goal: Predict the 3D structure of a protein from a given sequence of amino acids and assess the results**
 
 * Overview
 * Setup
-* Processing the input sequences
-* Analyzing the output predictions
+* Processing the Sequences
+* Analyzing the Predictions
   * 6YJ1
   * 7FVU
-* Analyzing the secondary structures
+* Analyzing the Secondary Structures
   * RMSD
-  * Prediction confidences
-  * Ramachandran plots
+  * Prediction Confidences
+  * Ramachandran Plots
 * Summary
 
 
@@ -61,3 +57,7 @@ Our work here will include comparing the predicted structures to their correspon
 * Quantum folding: [Robert *et al.*, <i>npj Quantum Inf.</i> (2021), <b>7</b>, 38](https://doi.org/10.1038/s41534-021-00368-4)
 * Protein generation: [Watson *et al.*, <i>bioRxiv</i> (2022)](https://doi.org/10.1101/2022.12.09.519842)
 * [OmegaFold on Github](https://github.com/HeliXonProtein/OmegaFold)
+* [PDB](https://www.rcsb.org/)
+* [NGLView documentation](http://nglviewer.org/nglview/release/v0.5.1/)
+* [Biopython documentations](https://biopython.org/wiki/Documentation)
+* [Biotite documentation](https://www.biotite-python.org/)
